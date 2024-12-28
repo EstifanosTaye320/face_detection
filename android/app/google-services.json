@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476155349976",
+    "project_id": "face-detector-app-30689",
+    "storage_bucket": "face-detector-app-30689.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476155349976:android:c9b2000ca1284a19e480ad",
+        "android_client_info": {
+          "package_name": "com.example.face_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXyuso-eA-RZb-6Do0wI8MEr4KD2R_1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
